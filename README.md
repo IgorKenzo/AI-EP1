@@ -1,2 +1,2 @@
-# LFA-EP1
+# AI-EP1
 A bot that plays chess with Python
